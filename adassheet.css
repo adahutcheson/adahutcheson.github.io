@@ -1,0 +1,14 @@
+.special {color: #666666; fl:left}
+body {background-color: lightblue;}
+h1 {text-align:center;}
+h2 {color:white; text-align:center;font-family:arial;}
+h3 {font-size: 20px; letter-spacing:2px}
+p {font-family:arial; font-size:12px; margin-left:20px}
+.img1 {float:left}
+.img2 {float:right}
+div {padding: 10px}
+a:link {color:green;}
+a:visited {color:purple}
+table {margin:auto;position:center;font-size:18px;border:1px solid black}
+td {background-color:pink}
+.hello {text-align:center}
